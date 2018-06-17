@@ -40,7 +40,7 @@ minetest.register_node("stihl:tree", {
 minetest.register_node("stihl:leaves", {
     description = {"some block"},
     tiles = {"stihl_default_leaves.png",},
-	groups = {stihl_blowy=1},
+	groups = {stihl_chainsawy=1},
 })
 
 minetest.register_node("stihl:autumn_leaves", {
@@ -57,12 +57,12 @@ minetest.register_node("stihl:high_grass", {
 
 minetest.register_tool("stihl:stihl_pick", {
     description = "Stihl chainsaw",
-    inventory_image = "stihl_chainsaw1.png",
+    inventory_image = "stihl_chainsaw3.png",
     visual_scale = 3.0,
     tool_capabilities = {
         max_drop_level=3,
         groupcaps= {
-            stihl_chainsawy={times={[1]=4.00, [2]=1.50, [3]=1.00}, uses=150, maxlevel=1}
+            stihl_chainsawy={times={[1]=1.00, [2]=0.50}, uses=150, maxlevel=1}
         }
     }
 })
