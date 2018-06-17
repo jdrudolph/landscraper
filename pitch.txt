@@ -1,0 +1,48 @@
+[Typ der vor ner Huette chillt]
+I love to do projects.
+The satisfaction you gain when you see what you created is THE best feeling.
+
+[Great idea, thinking hard, many open questions]
+I have this great idea for a landscaping project, but usually I only
+have a rough intuition on
+the actual work required, the materials and tools I need, and I definitely
+never think about the cleanup afterwards.
+
+It seems like even professionals mostly act on intuition which can go terribly
+wrong. [BER]
+
+[Typ der vor der Huette chillt]
+Our vision is to enable you to succeed with your landscaping projects by leveraging
+VR technology. 
+This is not a game though!
+We use VR gather analytics to automatically generate a detailed project report.
+
+Let's see the prototype in action:
+[Demo]
+Everything starts with a 3D model of your manison.
+Imagine generating this models directly from drohne images.
+
+In just a few processing steps we transform the inanimate model
+and make it immersive.
+
+Watch Jannis do some yard work with his Stihl leave blower.
+
+Just as he's done he can make some firewood for the winter.
+
+Next he finally cleans up that big pile of dirt his wife hates so much.
+
+As a precaution, he proceeds to reinforce his border wall.
+
+Happy with the results, the detailed materials and tools
+breakdown will prove invaluable in making his dream reality.
+This automatially generated document even includes a
+detailed map of the area!
+
+[Mann vor Huette]
+STIHL, can you help Jannis to find his tools?
+Can you connect him with the right business to haul his dirt?
+
+[Team]
+Together with our expertise in data science and enterprise
+software development we can make this ambitious vision reality!
+

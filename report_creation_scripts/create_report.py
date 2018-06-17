@@ -34,7 +34,7 @@ frame_rest = Frame(72, 72, 450, 700, showBoundary=False)
 
 styles = getSampleStyleSheet()
 main_page = PageTemplate(frames=[frame_header, frame_rest])
-doc = BaseDocTemplate("form_letter.pdf", pageTemplates=main_page)
+doc = BaseDocTemplate("lisht_report.pdf", pageTemplates=main_page)
 
 story = []
 lisht = Image("lisht_logo.png", 180, 80, hAlign='CENTER')
@@ -61,9 +61,8 @@ tools_header = Paragraph("Tools", styles['h2'])
 tools_table = Table(tools_data, colWidths=[400, 50])
 story = story + [tools_header, tools_table]
 
-
 floor_header = Paragraph("Topographical map", styles['h2'])
-floor_plan = Image("outline.png", 300, 300)
+floor_plan = Image("outline.png", 300, 200)
 story = story + [floor_header, floor_plan]
 
 doc.build(story)
